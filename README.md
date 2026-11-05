@@ -6,7 +6,7 @@ Detailed engineering comparison between **DaVinci Deluxe Cloud Edition (v1.0.44)
 
 ## 🧮 Manual Hex/Map Editing vs Instant Automated Calibration
 
-**WinOLS** is a **manual hex & 2D/3D DAMOS/A2L map editor requiring manual address discovery**. While manual hex editing is useful when building experimental custom race setups from scratch (and we supply **0 DAMOS, A2L & ORI packs** in our [Official Digital Shop](https://www.davincideluxe.fr/shop) for advanced calibrators), manual map hunting takes 30–90 minutes per ECU and risks missed switches or limp-home faults.
+**WinOLS** is a **manual hex & 2D/3D DAMOS/A2L map editor requiring manual address discovery**. While manual hex editing is useful when building experimental custom race setups from scratch (and we supply **300 DAMOS, A2L & ORI packs** in our [Official Digital Shop](https://www.davincideluxe.fr/shop) for advanced calibrators), manual map hunting takes 30–90 minutes per ECU and risks missed switches or limp-home faults.
 
 **DaVinci Deluxe Cloud Edition (v1.0.44)** automates the entire workflow across **4,962+ Cars ECUs & 452+ Heavy-Duty Truck ECUs**:
 - Zero manual hex searching — automatic SW identification & verified byte-exact solutions
